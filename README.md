@@ -1,2 +1,3 @@
-# ferryTable
-一个高性能table组件
+# ferryDataGrid
+
+一个高性能数据Vue表格组件
